@@ -60,11 +60,11 @@ We then deploy two contracst to the network:
 
 Before calling:
 
-![image.png](image.png)
+![demo/image.png](demo/demo/image.png)
 
 After the call:
 
-![image.png](image%201.png)
+![demo/image.png](demo/image%201.png)
 
 If we now deploy another C contract with the following source code:
 
@@ -87,7 +87,7 @@ Execute:
 
 Before calling
 
-![image.png](image%202.png)
+![demo/image.png](demo/image%202.png)
 
 After the call:
 
@@ -99,7 +99,7 @@ When designing upgradable smart contract., gas efficiency is critical for users 
 
 ### Transparent Proxy
 
-![image.png](image%203.png)
+![demo/image.png](demo/image%203.png)
 
 The Transparent Proxy Pattern is a design pattern used to create Upgradeable Smart Contracts. It is currently the most popular and safest standard (used by default by Openzeppelin).
 
@@ -129,7 +129,7 @@ Allowing the Admin to be a regular wallet (EOA) interacting directly with the Pr
 
 ### UUPS
 
-![image.png](image%204.png)
+![demo/image.png](demo/image%204.png)
 
 1. **Core Difference: "Where does the Upgrade Logic live?"**
 
