@@ -60,7 +60,7 @@ We then deploy two contracst to the network:
 
 Before calling:
 
-![demo/image.png](demo/demo/image.png)
+![demo/image.png](demo/image.png)
 
 After the call:
 
@@ -91,7 +91,7 @@ Before calling
 
 After the call:
 
-![Screenshot 2026-01-20 222226.png](Screenshot_2026-01-20_222226.png)
+![Screenshot 2026-01-20 222226.png](demo/image%205.png)
 
 ## Proxy Patterns
 
